@@ -1,3 +1,12 @@
 @import "~bootstrap/scss/bootstrap";
 
+@import "./partials/header";
+
+.jumbo {
+    height: 45vh;
+        background-image: url(../img/jumbotron.jpg);
+        background-size: 100% auto;
+        position: relative;
+
+}
 
