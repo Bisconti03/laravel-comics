@@ -3,14 +3,12 @@
         <div class="container">
             <div class="row d-flex justify-content-end ">
                 <div class="col-2 ">
-                    <p class="m-0">
-                        DC POWER VISA
-                    </p>
+                    <a class="text-white" href="">DC POWER VISA</a>
+                    
                 </div>
                 <div class="col-2 ">
-                    <p class="m-0">
-                        ADDITIONA DC SITE
-                    </p>
+                    <a class="text-white" href="">ADDITIONA DC SITE</a>
+                    
                 </div>
             </div>
     
@@ -60,7 +58,9 @@
     </div>
 
     <div class="jumbo">
-
+        <div class="current-series">
+            CURRENT SERIES
+        </div>
     </div>
     
 </header>

@@ -7,7 +7,7 @@ Laravel Comics
 @endsection
 
  @section('content')
- <div class="main-cards">
+ <div class="main-cards py-5">
     <div class="container py-4">
         <div class="row">
             
@@ -23,7 +23,7 @@ Laravel Comics
                @endforeach
     
            <div class="text-center">
-            <button class="bg-primary fw-bold">
+            <button class="bg-primary fw-bold text-white py-2 px-3">
                 LOAD MORE
             </button>
            </div>

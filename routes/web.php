@@ -23,5 +23,8 @@ Route::get('/', function () {
 
 
 Route::get('/shop', function () {
-    return view('shop');
+    $data = config('comics');
+    return view('shop',[
+        'comics' => $data
+    ]);
 })->name('shop');
